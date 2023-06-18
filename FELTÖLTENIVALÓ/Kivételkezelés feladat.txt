@@ -1,0 +1,7 @@
+Készíts programot egy téglalap területének kiszámítására.
+A program addig folytassa a két oldal bekérését, amíg valamelyik nem kap -1 értéket.
+A területet függvény segítségével számítsa ki, átadott paraméter a két oldal hosszúsága. 
+Abban az esetben ha a terület 100m2-nél kisebb, a terület ne kerüljön kiírásra, 
+hanem írja ki "Hiba! Túl kicsi a terület!". 
+Egyéb esetben "Telek területe: ....m2" szöveg jelenjen meg.
+A kivételkezelést try-except segítségével old meg!
